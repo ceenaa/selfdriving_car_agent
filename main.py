@@ -6,7 +6,7 @@ import avisengine
 import config
 import time
 import cv2
-import race_drive
+import utils
 
 # Creating an instance of the Car class
 car = avisengine.Car()
@@ -30,7 +30,7 @@ try:
 
         counter = counter + 1
 
-        flag = race_drive.drive(car, first_flag)
+        flag = utils.drive(car, first_flag)
         first_flag = flag
 
         # Display the FPS on the frame
