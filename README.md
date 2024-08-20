@@ -33,7 +33,7 @@ The main components of this project include:
 
 ### Setup
 
-1. first you need to install avis driving simulator from https://avisengine.com/
+1. first you need to install [avis driving simulator](https://avisengine.com/)
 2. install the required Python packages
 
 ## Usage
