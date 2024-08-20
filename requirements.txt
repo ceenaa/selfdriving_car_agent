@@ -1,0 +1,8 @@
+numpy
+opencv-contrib-python
+opencv-python
+Pillow
+PySocks
+PyYAML
+regex
+requests
