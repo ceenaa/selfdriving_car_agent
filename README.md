@@ -39,7 +39,7 @@ The main components of this project include:
 First open the avis driving simulator and select the race road. Then Start the server and increase the max speed to 100.
 To run the self-driving car agent, execute the following command:
 
-```
+```python
 python main.py
 ```
 
