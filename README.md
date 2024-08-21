@@ -11,8 +11,7 @@ The main components of this project include:
 - Obstacle avoidance using sensor data and lane information.
 
 ## Results
-[Classic race drive](https://github.com/user-attachments/assets/b9cbb332-059a-48df-aa1c-e843dd3d71b7)
-
+[selfdriving_car_agent.webm](https://github.com/user-attachments/assets/ed363127-0111-44ff-ad5a-f5b911bb4652)
 
 ## Features
 
